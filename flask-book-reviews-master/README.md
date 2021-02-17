@@ -1,11 +1,8 @@
 # flask-book-reviews
 flask web application for writing book reviews. 
-
-### Requirements:  
-https://docs.cs50.net/web/2018/w/projects/1/project1.html
  
 ### Website:
-https://seiya-book-reviews.herokuapp.com
+https://abhi-book-reviews.herokuapp.com
 
 # Screenshots:
 ### Register
@@ -20,15 +17,3 @@ https://seiya-book-reviews.herokuapp.com
 ![Image](https://i.imgur.com/mLfzweu.png)
 
 
-# TO-DO:
-* ~~Register~~
-* ~~Login~~
-* ~~Search~~
-* ~~Book Info~~
-* ~~Sessions~~
-* ~~Reviews~~
-* ~~API~~
-* ~~Design~~
-* ~~Salt & Hash~~~
-* Error Handling
-* Documentation

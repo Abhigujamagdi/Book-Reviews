@@ -1,8 +1,6 @@
 # flask-book-reviews
 flask web application for writing book reviews. 
- 
-### Website:
-https://abhi-book-reviews.herokuapp.com
+
 
 # Screenshots:
 ### Register
